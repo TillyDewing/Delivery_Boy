@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 950274ef7e112f64eaecc3a3c1ef5b23
+timeCreated: 1493091286
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Brake_Light
+    100002: Front_Mud_Guard
+    100004: Front_sespension
+    100006: Front_Wheel
+    100008: Handle_bars
+    100010: Headlight
+    100012: Pizza_Box
+    100014: Pizza_Box_Mount
+    100016: Rear_Suspension
+    100018: Rear_Wheel
+    100020: Seat
+    100022: //RootNode
+    100024: Body
+    400000: Brake_Light
+    400002: Front_Mud_Guard
+    400004: Front_sespension
+    400006: Front_Wheel
+    400008: Handle_bars
+    400010: Headlight
+    400012: Pizza_Box
+    400014: Pizza_Box_Mount
+    400016: Rear_Suspension
+    400018: Rear_Wheel
+    400020: Seat
+    400022: //RootNode
+    400024: Body
+    2300000: Brake_Light
+    2300002: Front_Mud_Guard
+    2300004: Front_sespension
+    2300006: Front_Wheel
+    2300008: Handle_bars
+    2300010: Headlight
+    2300012: Pizza_Box
+    2300014: Pizza_Box_Mount
+    2300016: Rear_Suspension
+    2300018: Rear_Wheel
+    2300020: Seat
+    2300022: //RootNode
+    2300024: Body
+    3300000: Brake_Light
+    3300002: Front_Mud_Guard
+    3300004: Front_sespension
+    3300006: Front_Wheel
+    3300008: Handle_bars
+    3300010: Headlight
+    3300012: Pizza_Box
+    3300014: Pizza_Box_Mount
+    3300016: Rear_Suspension
+    3300018: Rear_Wheel
+    3300020: Seat
+    3300022: //RootNode
+    3300024: Body
+    4300000: Body
+    4300002: Seat
+    4300004: Pizza_Box_Mount
+    4300006: Pizza_Box
+    4300008: Rear_Suspension
+    4300010: Rear_Wheel
+    4300012: Brake_Light
+    4300014: Handle_bars
+    4300016: Headlight
+    4300018: Front_Mud_Guard
+    4300020: Front_sespension
+    4300022: Front_Wheel
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
